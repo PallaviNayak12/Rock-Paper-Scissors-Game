@@ -18,4 +18,8 @@ Play against the computer and track your score in real time!
 ![Game Screenshot](output.png)
 
 ---
+## 📽️ Demo Video
+[![Watch Demo](demo.mp4)
+
+---
 
