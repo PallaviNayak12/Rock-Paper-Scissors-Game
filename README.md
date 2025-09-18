@@ -10,7 +10,7 @@ Play against the computer and track your score in real time!
 - 🤖 Random computer choice generation.  
 - ⭐ Scoreboard to track wins and losses.  
 - 🎨 Attractive design with hover animations.  
-- ⚡ Fully responsive and lightweight.  
+- ⚡ Fully responsive and lightweight.
 
 ---
 
