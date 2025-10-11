@@ -6,7 +6,7 @@ Play against the computer and track your score in real time!
 ---
 
  🚀 Features
-- 🎮 Playable Rock–Paper–Scissors game.  
+- 🎮 Playable Rock–Paper–Scissors game. 
 - 🤖 Random computer choice generation.  
 - ⭐ Scoreboard to track wins and losses.  
 - 🎨 Attractive design with hover animations.  
